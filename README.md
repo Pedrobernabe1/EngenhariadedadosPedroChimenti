@@ -1,0 +1,7 @@
+O objetivo desta pesquisa é realizar uma análise detalhada e abrangente sobre o mercado de veículos elétricos (VEs) nos Estados Unidos, utilizando uma planilha como ferramenta para organizar, categorizar e interpretar dados relevantes sobre o volume de hibridos e eletricos, característica e preferências dos consumidores. A pesquisa visa fornecer insights claros sobre a evolução do mercado de VEs, identificar tendências e padrões, e fornecer um panorama das principais marcas, modelos, infraestrutura de carregamento. O objetivo final é oferecer um recurso útil para investidores, fabricantes, políticas públicas e consumidores interessados na adoção e expansão de veículos elétricos no território norte-americano.
+
+Responder as seguintes perguntas: Identificar e listar os principais modelos de veículos elétricos no mercado dos Estados Unidos. Organizar dados sobre especificações técnicas como autonomia Analizar o crescimento dos hibidos e elétricos
+
+Coleta: Importaremos do site Kaggle uma planilha com algumas caracteristicas como modelo, ano, marca, tipo de veiculo(híbrido ou elétrico), autonomia e entre outros.
+
+Modelagem: Modelo escolhido foi o modelo estrela, a tabela fato que é a Eletricvehicle e as tabelas dimensão que são Eletricmedia, eletricvehicle, quantidadexano, quantidadexestado, quantidadexmontadora,tipoxmontadora o arquivo em imagem esta anexado no site Git no main. A tabela fato foi escolhida a Eletric Vehicle, pois ela foi a base para criação das outras tabelas.
